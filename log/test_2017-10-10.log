@@ -1,0 +1,18 @@
+2017/10/10 17:18:38 logger.go:70: [DEBUG] Init logger Success
+2017/10/10 17:18:38 main.go:131: [DEBUG] djkdjkfj===
+2017/10/10 17:21:42 logger.go:70: [DEBUG] Init logger Success
+2017/10/10 17:21:42 main.go:131: [DEBUG] djkdjkfj===
+2017/10/10 17:27:48 logger.go:70: [DEBUG] Init logger Success
+2017/10/10 17:27:48 main.go:136: [DEBUG] djkdjkfj===
+2017/10/10 17:29:49 logger.go:70: [DEBUG] Init logger Success
+2017/10/10 17:29:49 main.go:121: [DEBUG] djkdjkfj===
+2017/10/10 17:31:42 logger.go:70: [DEBUG] Init logger Success
+2017/10/10 17:31:42 main.go:104: [DEBUG] djkdjkfj===
+2017/10/10 17:33:44 logger.go:70: [DEBUG] Init logger Success
+2017/10/10 17:33:44 main.go:105: [DEBUG] djkdjkfj===
+2017/10/10 18:03:30 logger.go:70: [DEBUG] Init logger Success
+2017/10/10 18:03:30 main.go:48: [DEBUG] djkdjkfj===
+2017/10/10 18:03:54 logger.go:70: [DEBUG] Init logger Success
+2017/10/10 18:03:54 main.go:48: [DEBUG] djkdjkfj===
+2017/10/10 18:05:39 logger.go:70: [DEBUG] Init logger Success
+2017/10/10 18:05:39 main.go:48: [DEBUG] djkdjkfj===
